@@ -25,3 +25,4 @@ more README.md
 cd proyect
 cd ..
 ls --color=auto
+mv website website-boilerplate
