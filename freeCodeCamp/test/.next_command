@@ -24,3 +24,4 @@ echo for the freeCodeCamp bash lessons >> README.md
 more README.md
 cd proyect
 cd ..
+ls --color=auto
