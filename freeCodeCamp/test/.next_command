@@ -7,3 +7,5 @@ rm fonts
 rm -r fonts
 ls --color=auto
 touch package.json
+tocuh server.js
+touch server.js
